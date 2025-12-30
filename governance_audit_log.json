@@ -1,0 +1,54 @@
+[
+  {
+    "rule_id": "RULE-4ef3debf",
+    "incident_id": "Fusion-Live",
+    "ttl_seconds": 86400,
+    "expires_at": "2025-12-31T21:09:53.993406",
+    "confidence": 1.0,
+    "metadata": {
+      "context": "Swarm Fusion (Text=1.20, Math=0.47)"
+    }
+  },
+  {
+    "timestamp": "2025-12-31T01:27:19.445677",
+    "incident_id": "Fusion-Live",
+    "risk_score": 1.0,
+    "action": "LOG_ONLY",
+    "details": "Swarm Fusion (Text=1.20, Math=0.48)"
+  },
+  {
+    "timestamp": "2025-12-31T02:03:08.069880",
+    "incident_id": "Fusion-guest",
+    "risk_score": 1.0,
+    "action": "LOG_ONLY",
+    "details": "Intent: credential_access | Vel: 63"
+  },
+  {
+    "timestamp": "2025-12-31T02:04:39.263719",
+    "incident_id": "Fusion-admin",
+    "risk_score": 1.0,
+    "action": "LOG_ONLY",
+    "details": "Intent: credential_access | Vel: 63"
+  },
+  {
+    "timestamp": "2025-12-31T02:05:14.919336",
+    "incident_id": "Fusion-admin",
+    "risk_score": 1.0,
+    "action": "LOG_ONLY",
+    "details": "Intent: credential_access | Vel: 14"
+  },
+  {
+    "timestamp": "2025-12-31T02:10:01.484973",
+    "incident_id": "Fusion-admin",
+    "risk_score": 1.0,
+    "action": "LOG_ONLY",
+    "details": "Intent: credential_access | Vel: 2"
+  },
+  {
+    "timestamp": "2025-12-31T02:11:43.990856",
+    "incident_id": "Fusion-admin",
+    "risk_score": 1.0,
+    "action": "LOG_ONLY",
+    "details": "Intent: credential_access | Vel: 2"
+  }
+]

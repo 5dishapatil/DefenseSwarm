@@ -1,0 +1,5 @@
+{"id": "Fusion-guest", "timestamp": "2025-12-31T03:50:14.373767", "risk_score": 1.0, "mode": "AUDIT", "decision": "LOG_ONLY", "context": "Impact: credential_theft | Violation: Zero-Trust: Credential Access Attempt"}
+{"id": "Fusion-admin", "timestamp": "2025-12-31T03:50:31.949845", "risk_score": 1.0, "mode": "AUDIT", "decision": "LOG_ONLY", "context": "Impact: credential_theft | Violation: Zero-Trust: Credential Access Attempt"}
+{"id": "Fusion-admin", "timestamp": "2025-12-31T03:50:47.524946", "risk_score": 1.0, "mode": "AUDIT", "decision": "LOG_ONLY", "context": "Impact: credential_theft | Violation: Zero-Trust: Credential Access Attempt"}
+{"id": "Fusion-admin-Audit", "timestamp": "2025-12-31T03:51:14.738365", "risk_score": 0.8, "mode": "AUDIT", "decision": "LOG_ONLY", "context": "Sensitive Action Triggered Verification (Audit Only)"}
+{"id": "Fusion-admin-Audit", "timestamp": "2025-12-31T03:51:43.712127", "risk_score": 0.8, "mode": "ACTIVE_AZURE", "decision": "LOG_ONLY", "context": "Sensitive Action Triggered Verification (Audit Only)"}
